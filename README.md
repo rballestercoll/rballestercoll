@@ -1,11 +1,10 @@
 ### Hi there 👋 
-### This is Rafel Ballester Coll!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rballestercoll)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rballestercoll777/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rballestercoll@gmail.com)
 
-Greetings! I'm delighted to introduce myself as a modern and stylish individual with a strong academic background in Humanities. After gaining valuable experience in the publishing industry for several years, I made an audacious decision to embark on a transformative journey into the dynamic realms of web development, UX/UI design, and Blockchain development. By merging my creative flair with my newfound technical expertise, I thrive on crafting engaging user experiences and bringing innovative ideas to life. I am passionate about exploring the endless possibilities that lie at the intersection of technology and creativity, and I am excited to contribute my diverse skill set to the ever-evolving digital landscape.  
+Greetings! I'm delighted to introduce myself, My name is Rafel Ballester Coll , I was born in 1988 in Mallorca, Spain and my academic roots are in the humanities. After gaining valuable experience in the publishing industry for several years, I made an audacious decision to embark on a transformative journey into the dynamic realms of web development, UX/UI design, and Blockchain development. By merging my creative flair with my newfound technical expertise, I thrive on crafting engaging user experiences and bringing innovative ideas to life. I am passionate about exploring the endless possibilities that lie at the intersection of technology and creativity, and I am excited to contribute my diverse skill set to the ever-evolving digital landscape.  
 
 
 #### 🌱 Things I am currently working on: 

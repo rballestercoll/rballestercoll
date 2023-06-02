@@ -4,12 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rballestercoll777/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rballestercoll@gmail.com)
 
-Hi! 
-My name is Rafel Ballester Coll and my story begins in Mallorca, Spain in 1988. I am one of those who think that in the horizon of any person there are always countless important things that build and define him. In my case, I grew up being in love with letters, history and philosophy, however, after a career and several years working in the publishing industry I decided to put a stop to this chapter and focus on another of my great passions, technology.
-At the end of the year 2021 I left my job and decided to go back to study, during this time I have taken the "Google UX/UI Certificate" and practically finished the "Técnico Superior en Desarrollo de Aplicaciones Web" at the UOC.
-
-Apart from this, I have taken the opportunity to train myself self-taught in Design, acquiring a fairly acceptable level in the Adobe Application Pack and Figma. And on the other hand, I have acquired quite a lot of fluency in several programming languages.
-Nowadays I continue training myself daily, recycling my knowledge and practicing every day. 
+Hi, I'm Rafel. I'm currently looking for a job as a Full-Stack web developer, although I also accept freelance jobs, agency collaborations and contract work. Preferably only remote and face-to-face only in Mallorca, Spain. 
 
 
 #### 🌱 Things I am currently working on: 

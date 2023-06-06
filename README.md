@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rballestercoll)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rballestercoll777/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rballestercoll/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rballestercoll@gmail.com)
 
 Hi, I'm Rafel. I'm currently looking for a job as a Full-Stack web developer, although I also accept freelance jobs, agency collaborations and contract work. Preferably only remote and face-to-face only in Mallorca, Spain. 

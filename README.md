@@ -32,7 +32,9 @@ Hi, I'm Rafel. I'm currently looking for a job as a Full-Stack web developer, al
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+<img src="https://github-profile-trophy.vercel.app/?rballestercoll=ryo-ma&margin-w=15" />
 </p>
 
-https://github-profile-trophy.vercel.app/?rballestercoll=ryo-ma&margin-w=15
+
 
